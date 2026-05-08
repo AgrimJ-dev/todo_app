@@ -1,7 +1,5 @@
-study
 make project
-meal prep
-gym
-review
+go to gymreview
 Edit button check
 Add button check
+Push to Github
