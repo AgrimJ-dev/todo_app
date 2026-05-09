@@ -1,5 +1,4 @@
 make project
-go to gymreview
-Edit button check
+fix the edit button
 Add button check
 Push to Github

@@ -1,4 +1,11 @@
+import os
+
 FILEPATH = "todos.txt"
+
+# Create the file if it doesn't exist
+if not os.path.exists(FILEPATH):
+    with open(FILEPATH, "w") as file:
+        pass
 
 
 def get_todos(filepath=FILEPATH):
