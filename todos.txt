@@ -1,8 +1,7 @@
 Make project
 Study Python
-Fix the edit button
 Add button check
 Push to Github
 Learn Streamlit
 Read book
-Go to gym
+Make dinner
